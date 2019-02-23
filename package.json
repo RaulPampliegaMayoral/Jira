@@ -1,0 +1,15 @@
+{
+  "name": "jira",
+  "version": "1.0.0",
+  "description": "Jira worklog update",
+  "main": "jira.js",
+  "dependencies": {
+    "jira-client": "^6.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PaMaY",
+  "license": "ISC"
+}
